@@ -1,0 +1,2 @@
+# LedJuostaMagic
+Kai virve nepadeda
